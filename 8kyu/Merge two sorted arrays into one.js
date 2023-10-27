@@ -29,6 +29,6 @@ first we use new Set to remove duplicates
 
 Using concat allows us to join the two arrays
 
-and finally using sort, we sort the array into ascending order. 
+and finally using sort, we sort the array into an ascending order. 
 
 */
