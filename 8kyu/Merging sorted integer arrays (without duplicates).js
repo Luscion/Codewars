@@ -13,3 +13,5 @@ function mergeArrays(a, b) {
     we then use the sort() method to sort the concatented array
 
     */
+
+ 
