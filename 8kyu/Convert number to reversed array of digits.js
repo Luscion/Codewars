@@ -20,3 +20,4 @@ function digitize(n) {
   }
 
   //using the spread operator with brackets returns an array, .map(Number) returns a copy of the new array but converts the value into a Number type and then we reverse it.
+
