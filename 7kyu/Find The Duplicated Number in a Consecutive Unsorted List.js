@@ -16,4 +16,4 @@ function findDup(arr){
 
 function findDup(arr){
     return Number(arr.filter((i, x) => arr.indexOf(i) !== x))
-  }
+  };
