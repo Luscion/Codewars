@@ -22,3 +22,11 @@ function gooseFilter (birds) {
     let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
     return birds.filter(x => !geese.includes(x))
   };
+
+  let points = 40
+
+  if(points > 20) {
+    points -= 10
+  }
+
+  console.log(points)
