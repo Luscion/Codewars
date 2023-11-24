@@ -9,3 +9,8 @@ Return your answer as a number.
 function sumMix(x){
     return x.map(x => parseInt(x)).reduce((a,b) => a + b, 0)
    }
+
+
+
+
+
