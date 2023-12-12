@@ -23,3 +23,5 @@ function longest(s1, s2) {
     let x = [...new Set(s1.concat(s2))]
     return x.sort().join('')
   }
+
+  [...new Set(s1+s2)].sort().join('')
