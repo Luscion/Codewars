@@ -11,3 +11,6 @@ The input string will only consist of lower case letters and/or spaces.
 function getCount(str) {
     return str.split(/[a,e,i,o,u]/gi).length -1
   }
+
+ 
+  
