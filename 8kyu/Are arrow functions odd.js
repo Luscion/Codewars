@@ -6,14 +6,15 @@ Time to test your basic knowledge in functions! Return the odds from a list:
 */
 
 
+function odds(values){
+   //code here
+};
+
+
+
 //Solution
-
-
 function odds(values){
     return values.filter(x => x % 2 !== 0);
 };
 
 
-let name = 'Eliah Forgenie'
-
-let newName = name.split(' ').map(x => x[0].toUpperCase()).join('')
